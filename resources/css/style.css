@@ -48,6 +48,12 @@ header .logo .header-name{
   color: darkgrey;
 }
 
+.header-title {
+    font-weight: bold;
+    color: black;
+    font-size: 32px;
+}
+
 banner1{
   background-color: black
   display: flex;
