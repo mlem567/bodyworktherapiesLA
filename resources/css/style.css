@@ -1,14 +1,21 @@
 html{
   font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  color: white;
 }
 
-h1,h2{
-  color: DarkGreen;
+main{
+  background-color: darkgray;
+  position: relative;
+  width: 100%;
 }
 
-h3{
-  color: SeaGreen;
+body {
+    margin: 0;
+    font-family: "Arial", sans-serif;
 }
+
+
 
 header{
   background-color: white;
@@ -44,21 +51,17 @@ a {
   height: 7rem;
 }
 
-header .logo .header-name{
+/*header */
+
+header-name{
   color: darkgrey;
+  font-weight: 400;
 }
 
-header-title {
-    font-weight: bold;
-    color: black;
-    font-size: 32px;
-}
-
-banner1{
-  background-color: black
-  display: flex;
-  margin-left: 24px;
-  align-items: center;
+.header-title{
+  font-weight: bold;
+  color: black;
+  font-size: 32px;
 }
 
 /* header logos for mobile nav */
