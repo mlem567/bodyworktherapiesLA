@@ -48,10 +48,11 @@ header .logo .header-name{
   color: darkgrey;
 }
 
-banner{
+banner1{
   background-color: black
   display: flex;
   margin-left: 24px;
+  align-items: center;
 }
 
 /* header logos for mobile nav */
