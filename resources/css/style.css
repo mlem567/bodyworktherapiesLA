@@ -9,3 +9,46 @@ h1,h2{
 h3{
   color: SeaGreen;
 }
+
+header{
+  background-color: white;
+  height: 4rem;
+  width: 100%;
+  justify-content: space-between;
+  display: inline-flex;
+  position: fixed;
+  z-index: 1;
+  align-items: center;
+}
+
+.desktop-nav a{
+  padding: 0px 1rem;
+}
+
+a {
+    color: #3dabff;
+    text-decoration: none;
+}
+
+/* logo */
+
+.logo{
+  display: flex;
+  align-items: center;
+  margin-left: 24px;
+}
+
+.logo img{
+  margin-left: 1.5rem;
+  height: 3rem;
+}
+
+header .logo .header-name{
+  color: darkgrey;
+}
+
+/* header logos for mobile nav */
+
+.mobile-nav{
+  display: none;
+}
