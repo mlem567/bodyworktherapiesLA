@@ -78,7 +78,7 @@ header-name{
 
 .banner{
   width: 100%;
-  padding: 70px 24px 32px 32px;
+  padding: 70px 24px 32px 68px;
   justify-content: center;
   display: flex;
   align-items: center;
@@ -104,7 +104,7 @@ header-name{
 .massageHands{
   width: 100%;
   padding: 0px 24px 10px 32px;
-  justify-content: center;
+  justify-content: left;
   display: flex;
   align-items: center;
 }
