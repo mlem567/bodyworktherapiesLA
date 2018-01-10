@@ -79,14 +79,14 @@ header-name{
 
 .banner{
   width: 100%;
-  padding: 70px 24px 32px 68px;
-  justify-content: center;
+  padding: 70px 24px 32px 34px;
+  justify-content: left;
   display: flex;
   align-items: center;
 }
 
 .banner img{
-  width: 75%;
+  width: 50%;
 }
 
 .banner-text{
@@ -121,15 +121,16 @@ header-name{
 }
 
 .massage-text h2{
-    font-size: 2.5rem;
+    font-size: 2em;
     margin-left: 2rem;
     color: #18140c;
     margin-bottom: 1rem;
 }
 
 .massage-text p{
-    font-size: 1.5rem;
+    font-size: 1em;
     margin-left: 2rem;
     margin-bottom: 1rem;
     color: #18140c;
+    width:75%;
 }
