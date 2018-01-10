@@ -103,7 +103,7 @@ header-name{
 
 .massageHands{
   width: 100%;
-  padding: 70px 24px 32px 32px;
+  padding: 0px 24px 10px 32px;
   justify-content: center;
   display: flex;
   align-items: center;
@@ -112,6 +112,10 @@ header-name{
 .massage-text{
   width: 35%;
   align-items: center;
+}
+
+.massage img{
+  width: 75%;
 }
 
 .massage-text h2{
