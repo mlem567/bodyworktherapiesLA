@@ -85,3 +85,9 @@ header-name{
   width: 35%;
   align-items: center;
 }
+
+.banner-text h1{
+    font-size: 3.5rem;
+    margin-bottom: 2.5rem;
+    color: #18140c;
+}
