@@ -32,7 +32,7 @@ header{
 }
 
 a {
-    color: #3dabff;
+    color: #000;
     text-decoration: none;
 }
 
@@ -67,4 +67,15 @@ header-name{
 
 .mobile-nav{
   display: none;
+}
+
+.banner{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.banner-text{
+  width: 35%;
+  align-items: center;
 }
