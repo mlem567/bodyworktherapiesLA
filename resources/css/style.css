@@ -71,8 +71,14 @@ header-name{
 
 .banner{
   width: 100%;
+  padding: 70px 24px 32px 32px;
+  justify-content: center;
   display: flex;
   align-items: center;
+}
+
+.banner img{
+  width: 100%;
 }
 
 .banner-text{
