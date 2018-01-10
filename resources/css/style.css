@@ -36,6 +36,10 @@ a {
     text-decoration: none;
 }
 
+ul {
+  margin-top: 2rem;
+}
+
 /* logo */
 
 .logo{
@@ -59,6 +63,7 @@ header-name{
 
 .header-title{
   font-weight: bold;
+  margin-top: 2rem;
   color: black;
   font-size: 32px;
 }
@@ -68,6 +73,8 @@ header-name{
 .mobile-nav{
   display: none;
 }
+
+/* banner section */
 
 .banner{
   width: 100%;
@@ -88,6 +95,33 @@ header-name{
 
 .banner-text h1{
     font-size: 3.5rem;
+    margin: 100px 120px 40px 50px;
+    color: #18140c;
+}
+
+/* massage hands section */
+
+.massageHands{
+  width: 100%;
+  padding: 70px 24px 32px 32px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.massage-text{
+  width: 35%;
+  align-items: center;
+}
+
+.massage-text h2{
+    font-size: 2.5rem;
+    margin: 100px 120px 40px 50px;
+    color: #18140c;
+}
+
+.massage-text p{
+    font-size: 1.5rem;
     margin: 100px 120px 40px 50px;
     color: #18140c;
 }
